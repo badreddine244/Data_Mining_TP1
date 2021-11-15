@@ -261,3 +261,14 @@ zict==2.0.0
 zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
 zope.event==4.5.0
 zope.interface @ file:///C:/ci/zope.interface_1616357322857/work
+
+matplotlib==3.3.4
+numpy==1.20.1
+opencv-contrib-python==4.2.0.34
+pandas==1.2.4
+scikit_image==0.18.1
+scikit_learn==1.0.1
+scipy==1.6.2
+seaborn==0.11.1
+ipywidgets==7.6.3
+ipympl==0.8.2
